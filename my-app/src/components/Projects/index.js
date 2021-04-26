@@ -2,6 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
+import { Link } from "react-router-dom";
 // import website1 from "../../images/willitstream.PNG";
 // import website2 from "../../images/trackstar.PNG"
 
@@ -21,9 +22,9 @@ const Home = () => {
             movie and it will list all streaming services where the movie is
             availble.
           </Card.Text>
-          <a target="_blank" href="https://willitstream.com/">
+          <Link target="_blank" href="https://willitstream.com/">
             <Button variant="primary">Click Here!</Button>
-          </a>
+          </Link>
         </Card.Body>
       </Card>
 
@@ -41,9 +42,9 @@ const Home = () => {
             website out there now requires some form of authentication, so it
             felt good putting that into place.
           </Card.Text>
-          <a target="_blank" href="https://track-star-2021.herokuapp.com/">
+          <Link target="_blank" href="https://track-star-2021.herokuapp.com/">
             <Button variant="primary">Click Here!</Button>
-          </a>
+          </Link>
         </Card.Body>
       </Card>
     </div>
