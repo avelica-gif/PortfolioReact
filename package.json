@@ -1,0 +1,23 @@
+{
+  "name": "PortfolioReact",
+  "version": "1.0.0",
+  "description": "Updating my portfolio using React!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avelica-gif/PortfolioReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avelica-gif/PortfolioReact/issues"
+  },
+  "homepage": "https://github.com/avelica-gif/PortfolioReact#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
