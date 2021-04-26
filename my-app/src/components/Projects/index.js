@@ -2,17 +2,17 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { Link } from "react-router-dom";
-// import website1 from "../../images/willitstream.PNG";
-// import website2 from "../../images/trackstar.PNG"
+
+import website1 from "../../images/willItStream.PNG";
+import website2 from "../../images/trackstar.PNG";
 
 // import bootstrap
 
 const Home = () => {
   return (
     <div className="container">
-      <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src="holder.js/100px180" />
+      <Card className="mb-3" style={{ width: "75%", margin: "auto" }}>
+        <img variant="top" src={website1} />
         <Card.Body>
           <Card.Title>Will It Stream</Card.Title>
           <Card.Text>
@@ -22,14 +22,14 @@ const Home = () => {
             movie and it will list all streaming services where the movie is
             availble.
           </Card.Text>
-          <Link target="_blank" href="https://willitstream.com/">
+          <a target="_blank" href="https://willitstream.com/">
             <Button variant="primary">Click Here!</Button>
-          </Link>
+          </a>
         </Card.Body>
       </Card>
 
-      <Card style={{ width: "18rem" }}>
-        <Card.Img variant="right" src="holder.js/100px180" />
+      <Card className="mb-5" style={{ width: "75%", margin: "auto" }}>
+        <Card.Img variant="right" src={website2} />
         <Card.Body>
           <Card.Title>Track Star</Card.Title>
           <Card.Text>
@@ -42,9 +42,9 @@ const Home = () => {
             website out there now requires some form of authentication, so it
             felt good putting that into place.
           </Card.Text>
-          <Link target="_blank" href="https://track-star-2021.herokuapp.com/">
+          <a target="_blank" href="https://track-star-2021.herokuapp.com/">
             <Button variant="primary">Click Here!</Button>
-          </Link>
+          </a>
         </Card.Body>
       </Card>
     </div>
