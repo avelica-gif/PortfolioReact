@@ -35,7 +35,7 @@ function App() {
 
       <div className="container">
         <Switch>
-          <Route path="/">
+          <Route exact path="/">
             <About />
           </Route>
           <Route path="/projects">
