@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/PortfolioReact/static/js/main.04460968.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.04460968.chunk.js.map",
+    "runtime-main.js": "/PortfolioReact/static/js/runtime-main.1ceeceba.js",
+    "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.1ceeceba.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PortfolioReact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8d08be11.chunk.js": "/PortfolioReact/static/js/2.8d08be11.chunk.js",
+    "static/js/2.8d08be11.chunk.js.map": "/PortfolioReact/static/js/2.8d08be11.chunk.js.map",
+    "index.html": "/PortfolioReact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PortfolioReact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/PortfolioReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8d08be11.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.8d08be11.chunk.js.LICENSE.txt",
+    "static/media/marketavi1.e204a9d7.jpg": "/PortfolioReact/static/media/marketavi1.e204a9d7.jpg",
+    "static/media/trackstar.d54e36a3.PNG": "/PortfolioReact/static/media/trackstar.d54e36a3.PNG",
+    "static/media/willItStream.947cbf75.PNG": "/PortfolioReact/static/media/willItStream.947cbf75.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ceeceba.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8d08be11.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.04460968.chunk.js"
+  ]
+}
