@@ -13,6 +13,7 @@ Here is the original (pre-React) portofolio: https://avelicacodes.com/
 Issues:
 
 The routing of the webpages works perfectly locally, but does not work in the deployed version. 
+I created a recorded that shows how to local host is working: https://drive.google.com/file/d/1Ih6Jmiszz4aInYvLz4Bogr8MeSKNPt6a/view
 
 Future implementation: 
 
